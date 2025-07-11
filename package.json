@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/astron-collection/astron-mail/issues"
   },
-  "homepage": "https://github.com/astron-collection/astron-mail#readme"
+  "homepage": "https://github.com/astron-collection/astron-mail#readme",
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
 }
