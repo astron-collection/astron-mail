@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/astron-collection/astron-mail#readme",
   "dependencies": {
-    "discord.js": "^14.21.0"
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0",
+    "fs": "^0.0.1-security"
   }
 }
